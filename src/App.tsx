@@ -39,7 +39,7 @@ export default function App(){
       <aside className="profile-card">
       <header>
 
-          <img src="https://scontent.fhan14-1.fna.fbcdn.net/v/t39.30808-6/366626853_839415364414702_5917400009153252330_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=U3F5vH_NmOYAX8f__NB&_nc_ht=scontent.fhan14-1.fna&oh=00_AfCy-9z8pFYqSbe1eIGx_o-D-JkT8U9wZgL437Kdh2eCAw&oe=655BACBD"/>
+          <img src="https://scontent.fhan5-2.fna.fbcdn.net/v/t39.30808-1/366626853_839415364414702_5917400009153252330_n.jpg?stp=dst-jpg_p240x240&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=72myYEjm3_UAX-gm_x1&_nc_ht=scontent.fhan5-2.fna&oh=00_AfDlsuBCIE-m0LBRHoKGKIF3KwohuZ3xhJ0EiNkXvE03uw&oe=6560237B"/>
         <h1>Nguyễn Văn Phong</h1>
         <h2>- Web Developer -</h2>
 
